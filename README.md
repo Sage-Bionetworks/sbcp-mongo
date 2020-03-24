@@ -1,2 +1,3 @@
-# phccp-mongo
-A MongoDB docker image extended to include an initialization script
+# sbcp-mongo
+
+A MongoDB Docker image extended to include an initialization script
